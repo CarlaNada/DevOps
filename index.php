@@ -1,4 +1,3 @@
-<?php echo "PHP está funcionando ✔<br>"; ?>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -64,9 +63,9 @@
 </head>
 <body>
   <div class="container">
-    <h1>¡Bienvenido a prueba.local!</h1>
-    <p>Este es un sitio de prueba sirviendo desde Nginx por el puerto 80 🚀</p>
-    <a href="#" class="btn">Explorar más</a>
+    <h1>¡Bienvenido!</h1>
+    <p>Este es un sitio de prueba, visite la lista de productos</p>
+    <a href="productos.php" class="btn">Productos</a>
   </div>
 </body>
 </html>
