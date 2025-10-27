@@ -7,8 +7,8 @@
     <h1>Lista de Productos</h1>
     <?php
     $servername = "localhost";
-    $username = "usuario"; // Cambiar
-    $password = "contraseña"; // Cambiar
+    $username = "root";
+    $password = "Carla2024!";
     $dbname = "mi_sitio_web";
 
     $conn = new mysqli($servername, $username, $password, $dbname);
